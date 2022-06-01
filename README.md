@@ -1,5 +1,3 @@
-# master_thesis
-
 # Master's thesis - Code repository
 
 This repository contains the code for my master's thesis 'Distance estimation in vehicle routing problems: An empirical approach using neural networks and ensemble learning'
